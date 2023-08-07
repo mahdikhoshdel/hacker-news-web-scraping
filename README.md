@@ -6,3 +6,5 @@ Output in order will be:
 - The highest rate news from 30 result of present news in hacker news website
 - Link
 - Score
+
+P.S : This project is based on ethics of web scraping so everything is legal.
